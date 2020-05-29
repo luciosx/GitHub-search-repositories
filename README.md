@@ -9,7 +9,7 @@ Fazer uma busca no gitHub por um repositório especificado no campo de busca.<br
 <strong>Como rodar a aplicação</strong>:<br>
 Siga as instruções abaixo:<br>
 
-1.Clone o repositorio: git clone https://github.com/luciosx/GitHub-search-repositories.git<br>
+1.Clone o repositorio: ~$ git clone https://github.com/luciosx/GitHub-search-repositories.git<br>
 2.Acesse a pasta do repositório: ~$ cd GitHub-search-repositories<br>
 3.Instale as dependência da aplicação: ~$ yarn add @babel/cli<br>
 4.Inicie a aplicação: ~$ yarn dev<br>
